@@ -50,7 +50,8 @@
   list-style: none;
 }
 
-.task, .btn{
+.task,
+.btn {
   outline: none;
 }
 
@@ -80,7 +81,8 @@
   text-transform: uppercase;
 }
 
-.new-task-input, .todo-input {
+.new-task-input,
+.todo-input {
   margin: 0;
   font-size: 18px;
   line-height: 18px;
@@ -93,7 +95,8 @@
   color: #888;
 }
 
-.new-task-input:focus, .todo-input:focus {
+.new-task-input:focus,
+.todo-input:focus {
   color: #333;
 }
 
