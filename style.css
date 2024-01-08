@@ -37,7 +37,7 @@
 .task {
   width: 56%;
   display: inline-block;
-  flex-grow: 1
+  flex-grow: 1;
 }
 
 .new-task-wrapper {
@@ -133,7 +133,7 @@
 }
 
 .todo-item > .todo-input {
-  width: 226px
+  width: 226px;
 }
 
 .icon {
@@ -148,18 +148,18 @@
 
 /* Completed */
 #completed-tasks .todo-label {
-  text-decoration: line-through
+  text-decoration: line-through;
   color: #888;
 }
 
 /* Edit Task */
 .todo-item .todo-input {
-  display: none
+  display: none;
 }
 
 .todo-item.edit-mode .todo-input {
   display: inline-block;
-  width: 224px
+  width: 224px;
 }
 
 .todo-item.edit-mode .todo-label {
